@@ -1,0 +1,5 @@
+.backup
+*.lst
+*.o
+01/hello-world/hello
+01/hello-world-2/hello2
